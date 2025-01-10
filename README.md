@@ -23,7 +23,7 @@ This project focuses on enhancing the security posture of Windows domain environ
 ## **How to Use**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/windows-domain-hardening.git
+   git clone https://github.com/avinashrajavarapugit/windows-domain-hardening.git
    ```  
 2. Review the hardening scripts and configuration files.  
 3. Follow the step-by-step guide in the documentation folder for implementation.  
